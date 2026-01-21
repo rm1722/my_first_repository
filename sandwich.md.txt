@@ -1,8 +1,10 @@
 # A tasty sandwich
 
 ```
-bread
-jam
+Bread
+Lettuce
+Tomato
+cheese
 bread
 ```
 
