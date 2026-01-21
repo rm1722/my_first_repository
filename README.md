@@ -8,5 +8,4 @@ Here's our todo:
 
 
 :)
-:) 
 
