@@ -1,10 +1,13 @@
 # A tasty sandwich
 
 ```
-bread
+Bread
+Lettuce
+Tomato
+cheese
 bread
 ```
 
 ## Todos:
-- [ ] add filling
+- [x] add filling
 
